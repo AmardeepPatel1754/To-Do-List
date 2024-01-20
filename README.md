@@ -4,9 +4,9 @@ This repository contains a simple To-Do List web application built with HTML, CS
 # Features
 * Add Task: Users can add new tasks to the to-do list.
 * Complete Task: User can mark tasks as completed by checking the corresponding checkbox.
-=> View Completed Tasks: Completed tasks are moved to separate list for easy reference.
-=> Responsive Design: The application is designed to be responsive, making it usable on various devices.
+*  View Completed Tasks: Completed tasks are moved to separate list for easy reference.
+*   Responsive Design: The application is designed to be responsive, making it usable on various devices.
 
 # Acknowledgments'
-=> This project utilizes the Bootstrap for styling.
-=> Icons are provided by Bootstrap icons.
+* This project utilizes the Bootstrap for styling.
+*  Icons are provided by Bootstrap icons.
