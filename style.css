@@ -1,0 +1,38 @@
+header {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
+.form-group {
+    margin-top: 25px;
+    margin-left: 10%;
+    margin-right: 20%;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#myUL li {
+    list-style-type: none;
+    margin-left: 10%;
+    margin-top: 20px;
+    color: black;
+    font-size: 20px;
+    color: black;
+}
+
+#taskUL li{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+li.checked {
+    text-decoration: line-through;
+  }
